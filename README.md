@@ -19,12 +19,15 @@ python3 temp_sensor.py start
 
 cd Coding-lab_Group7
 python3 water_meter.py start
+```
 
 2. Archive a Log File
 In a 4th terminal (or after stopping one simulator temporarily), run:
 
+```bash
 cd Coding-lab_Group7
 ./archive_logs.sh
+```
 
 You will be prompted to choose which log to archive.
 
@@ -35,8 +38,10 @@ A new, empty log file will be created automatically.
 3. Analyze a Log File
 To analyze a log and generate a report, run:
 
+```bash
 cd Coding-lab_Group7
 ./analyze_logs.sh
+```
 
 Select a log file (heart rate, temperature, or water usage).
 
@@ -45,7 +50,7 @@ The script will count occurrences per device and log timestamps.
 Results are saved in: reports/analysis_report.txt
 
 📁 Folder Structure
-
+```bash
 Coding-lab_Group7/
 │
 ├── archive_logs.sh
@@ -66,6 +71,7 @@ Coding-lab_Group7/
 ├── water_usage_archive/
 ├── reports/
     └── analysis_report.txt
+```
 
 ## 👥 Group Members
 1. Kenny Gael ISHIMWE GATETE
