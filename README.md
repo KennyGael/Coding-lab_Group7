@@ -67,17 +67,10 @@ Coding-lab_Group7/
 ├── reports/
     └── analysis_report.txt
 
-👥 Group Members
-Kenny Gael ISHIMWE GATETE
-
-Jesse NKUBITO
-
-Nelson ISHIMWE
-
-MUGISHA SHYAKA Victor
-
-Ange MUHAWENIMANA
-
-Moses MUGISHA
-
-
+## 👥 Group Members
+1. Kenny Gael ISHIMWE GATETE
+2. Jesse NKUBITO
+3. Nelson ISHIMWE
+4. Victor Mugisha Shyaka
+5. Ange MUHAWENIMANA
+6. Moses MUGISHA
