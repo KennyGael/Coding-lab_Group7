@@ -28,17 +28,17 @@ archive_log() {
     case "$log_type" in
         1)
             source_file="active_logs/heart_rate_log.log"
-            archive_dir="hospital_data/heart_data_archive"
+            archive_dir="hospital_data/archived_logs/heart_data_archive"
             log_name="heart_rate"
             ;;
         2)
             source_file="active_logs/temperature_log.log"
-            archive_dir="hospital_data/temperature_archive"
+            archive_dir="hospital_data/archived_logs/temperature_archive"
             log_name="temperature"
             ;;
         3)
             source_file="active_logs/water_usage_log.log"
-            archive_dir="hospital_data/water_usage_archive"
+            archive_dir="hospital_data/archived_logs/water_usage_archive"
             log_name="water_usage"
             ;;
     esac
